@@ -1,0 +1,16 @@
+header {
+    color: aquamarine;
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: antiquewhite;
+}
+p {
+    color: azure;
+    border: 2px solid aqua;
+    background-color: chocolate;
+    padding: 30px;
+    margin: 50px;
+}
